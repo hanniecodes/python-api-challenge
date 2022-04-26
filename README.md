@@ -1,1 +1,5 @@
+Three observable trends: 
+1.	In the northern hemisphere as latitude decreases temperature increases. Meaning the closer to the north the more the temperature drops to closer to 0 degrees Fahrenheit. A similar trend is observable in the southern hemisphere the closer the latitude is to the south pole (ie closer to -50 degrees latitude) the more the temperature drops. This corroborates the known fact that hotter temperatures are closer to the equator which has the most direct sunlight. 
+2.	There is a weak relationship between Latitude and humidity. Both the Southern and Northern hemispheres had weaker relationships observed by their linear regressions. The relationship is observable. However, the relationship between latitude and humidity for both hemispheres is not clearly defined by the linear regression. 
+3.	For both hemispheres, there is no relationship between cloudiness and latitude. There is no observable relationship between the two. 
 # python-api-challenge
